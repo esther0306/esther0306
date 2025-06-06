@@ -9,12 +9,11 @@
 
 ## 💼 Experience
 
-**ETRI Research Intern**  
-<span style="float:right;">Jan. 2025 – Feb. 2025</span>  
+**ETRI Research Intern** <span style="float:right;">Jan. 2025 – Feb. 2025</span>  
 *Social Robotics Laboratory, Daejeon, South Korea*  
-
 - Participated in a project for the early detection of developmental disorders  
 - Worked on CNN, explainable AI (XAI), and network compression
+
 
 ## 📚 Research Interests
 - Deep Learning (딥러닝)
